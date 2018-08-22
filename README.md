@@ -18,7 +18,8 @@ Javascript,html,css that runs in Chrome Extension.
     https://chrome.google.com/webstore/detail/steem2native/mncgfeacfpcakjbgihaahnhccfjdgbpp
 
 2. Click on the extension icon ans select preferred currency
-![icon](https://i.imgur.com/X0TKS3P.jpg)
+
+![Installation](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmZu1j7F7HzHd2BuRxmgdgacQBocHFrRV4UNqgbvM2bRj4/inr1.JPG)
 
 ### screenshots 
 #### before extenstion
