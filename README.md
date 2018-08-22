@@ -28,4 +28,8 @@ Javascript,html,css that runs in Chrome Extension.
 #### after adding extension
 <img src="https://i.imgur.com/rxzraAw.png" width="600" height="450">
 
- 
+ ## Roadmap
+
+1. To create working add-on in Firefox
+2. Showing symbols of currencies(Unicode) instead in plain 3 character text
+3. Add support to Busy.org
